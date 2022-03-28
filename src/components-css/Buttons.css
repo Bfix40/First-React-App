@@ -1,0 +1,11 @@
+.box-quote button {
+  display: flex;
+  align-items: center;
+  width: 5vw;
+  height: 5vh;
+  border-radius: 50px;
+}
+
+/* .twitter{
+    
+} */
